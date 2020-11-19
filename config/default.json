@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv:",
+  "mongoURI": "mongodb+srv:add-your-own-uri",
   "jwtSecret": "mysecrettoken"
 }
